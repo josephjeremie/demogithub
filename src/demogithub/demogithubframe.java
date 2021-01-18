@@ -65,6 +65,7 @@ public class demogithubframe extends javax.swing.JFrame {
 
         int nb = 17;
         JOptionPane.showMessageDialog(this, "la valeur de nb est"+nb);
+        int i = 0;
     }//GEN-LAST:event_btnMouseClicked
 
     /**
